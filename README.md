@@ -32,34 +32,10 @@ The APIs lacked clear, centralized documentation, making integration difficult a
 
 ---
 
-## GIS Documentation Case Study: QGIS Workflows
-
-### Overview
-Created structured documentation explaining GIS workflows and spatial data handling using QGIS.
-
-### Problem
-GIS concepts and workflows are often difficult for beginners and non-specialists to understand.
-
-### What I Did
-- Documented step-by-step GIS workflows
-- Explained spatial data concepts and analysis steps
-- Produced clear, reproducible guides for learners
-
-### Tools & Technologies
-- QGIS
-- Spatial datasets
-- Markdown
-
-### Outcome
-- Made GIS workflows easier to follow and reproduce
-- Improved understanding of spatial analysis processes
-
----
 
 ## Writing Samples
 - API Endpoint Documentation (Authentication)
 - User Management API Guide
-- GIS Workflow Guide (QGIS)
 
 ---
 
